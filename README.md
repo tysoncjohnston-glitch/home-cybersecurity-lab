@@ -1,17 +1,42 @@
 # Home Cybersecurity Lab
 
-This project documents a Linux based cybersecurity lab built to develop hands-on experience with operational security, identity and access management, monitoring, containerized infrastructure, and secure administration.
+Hands-on cybersecurity home lab focused on Linux administration, IAM, MFA, monitoring, Docker, and operational security.
 
-## Lab Goals
+---
 
-- Build practical Linux administration experience
-- Deploy and manage containerized security tools
-- Implement monitoring and service visibility
-- Configure IAM and MFA using Authentik
-- Integrate Authentik with Portainer using OAuth/OIDC
-- Practice operational security concepts such as patch management, access control, and service validation
+# Documentation Structure
 
-## Current Stack
+## Architecture
+
+- [Lab Architecture](architecture/lab-architecture.md)
+
+---
+
+## Services
+
+- [Portainer](services/portainer.md)
+- [Uptime Kuma](services/uptime-kuma.md)
+- [Authentik](services/authentik.md)
+- [Nginx Proxy Manager](services/nginx-proxy-manager.md)
+
+---
+
+## Security Controls
+
+- [MFA and IAM](security-controls/mfa-and-iam.md)
+- [Monitoring](security-controls/monitoring.md)
+- [Patch Management](security-controls/patch-management.md)
+- [Remote Administration](security-controls/remote-administration.md)
+
+---
+
+## Lessons Learned
+
+- [Lessons Learned](lessons-learned.md)
+
+---
+
+# Current Technologies
 
 - Ubuntu Server
 - Docker
@@ -19,22 +44,20 @@ This project documents a Linux based cybersecurity lab built to develop hands-on
 - Uptime Kuma
 - Authentik
 - Nginx Proxy Manager
+- SSH
 - UFW Firewall
-- SSH Remote Administration
 
-## Key Security Concepts Practiced
+---
+
+# Security Concepts Practiced
 
 - MFA
-- OAuth/OIDC
 - IAM
+- OAuth/OIDC
 - Authentication vs authorization
 - Reverse proxy architecture
-- Container networking
-- Service monitoring
+- Monitoring and visibility
 - Patch management
-- Break-glass admin access
+- Containerized infrastructure
 - Operational troubleshooting
-
-## Current Status
-
-The lab currently supports remote administration over SSH, Docker-based service deployment, monitoring through Uptime Kuma, centralized identity through Authentik, MFA-protected access, and Portainer OAuth integration through Authentik.
+- Administrative access control
