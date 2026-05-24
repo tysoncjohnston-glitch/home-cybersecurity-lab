@@ -61,3 +61,23 @@ Hands-on cybersecurity home lab focused on Linux administration, IAM, MFA, monit
 - Containerized infrastructure
 - Operational troubleshooting
 - Administrative access control
+
+---
+
+# Screenshots
+
+## Portainer OAuth Login
+
+![Portainer OAuth Login](screenshots/portainer-oauth-login.png)
+
+---
+
+## Authentik MFA Prompt
+
+![Authentik MFA Prompt](screenshots/authentik-mfa-prompt.png)
+
+---
+
+## Portainer Dashboard
+
+![Portainer Dashboard](screenshots/portainer-dashboard.png)
