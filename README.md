@@ -36,6 +36,14 @@ Hands-on cybersecurity home lab focused on Linux administration, IAM, MFA, monit
 
 ---
 
+# Architecture Diagram
+
+The following diagram provides a high level overview of the lab architecture, including centralized authentication, reverse proxying, containerized services, and the relationship between Docker and the host operating system.
+
+![Lab Architecture](screenshots/lab-architecture.png)
+
+---
+
 # Current Technologies
 
 - Ubuntu Server
@@ -68,16 +76,22 @@ Hands-on cybersecurity home lab focused on Linux administration, IAM, MFA, monit
 
 ## Portainer OAuth Login
 
+Demonstrates centralized authentication integration using Authentik OAuth/OIDC.
+
 ![Portainer OAuth Login](screenshots/portainer-oauth-login.png)
 
 ---
 
 ## Authentik MFA Prompt
 
+Demonstrates MFA enforcement during the authentication workflow.
+
 ![Authentik MFA Prompt](screenshots/authentik-mfa-prompt.png)
 
 ---
 
 ## Portainer Dashboard
+
+Demonstrates the operational Docker management environment and running infrastructure services.
 
 ![Portainer Dashboard](screenshots/portainer-dashboard.png)
