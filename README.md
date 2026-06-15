@@ -68,6 +68,7 @@ The following diagram provides a high level overview of the lab architecture, in
 - Patch management
 - Containerized infrastructure
 - Operational troubleshooting
+- Service validation and recovery
 - Administrative access control
 
 ---
