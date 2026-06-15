@@ -92,6 +92,30 @@ Implementing updates and integrations demonstrated:
 
 ---
 
+## Network Migration and Recovery
+
+After migrating to Starlink, I validated server connectivity across wired and wireless interfaces, recovered administrative access, verified Docker service health, and confirmed application availability across the environment.
+
+Rather than assuming a single root cause, troubleshooting was performed in layers:
+
+1. Validate operating system access.
+2. Verify network connectivity and routing.
+3. Confirm Docker service health.
+4. Verify container availability.
+5. Test application functionality.
+6. Validate authentication workflows.
+7. Confirm name resolution and reverse proxy functionality.
+
+### Key Lessons
+
+- Infrastructure changes should be validated layer by layer.
+- Service availability does not guarantee application accessibility.
+- Network routing should be reviewed when multiple interfaces are active.
+- Client-side name resolution can cause failures even when backend services are healthy.
+- Maintaining alternate access methods can significantly reduce recovery time during troubleshooting.
+
+---
+
 ## Security Mindset Development
 
 The project reinforced several operational security principles:
