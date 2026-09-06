@@ -2,7 +2,6 @@
 
 Hands-on cybersecurity home lab focused on Linux administration, IAM, MFA, monitoring, Docker, and operational security.
 
----
 
 # Documentation Structure
 
@@ -10,7 +9,6 @@ Hands-on cybersecurity home lab focused on Linux administration, IAM, MFA, monit
 
 - [Lab Architecture](architecture/lab-architecture.md)
 
----
 
 ## Services
 
@@ -19,7 +17,6 @@ Hands-on cybersecurity home lab focused on Linux administration, IAM, MFA, monit
 - [Authentik](services/authentik.md)
 - [Nginx Proxy Manager](services/nginx-proxy-manager.md)
 
----
 
 ## Security Controls
 
@@ -28,13 +25,11 @@ Hands-on cybersecurity home lab focused on Linux administration, IAM, MFA, monit
 - [Patch Management](security-controls/patch-management.md)
 - [Remote Administration](security-controls/remote-administration.md)
 
----
 
 ## Lessons Learned
 
 - [Lessons Learned](lessons-learned.md)
 
----
 
 # Architecture Diagram
 
@@ -42,7 +37,6 @@ The following diagram provides a high level overview of the lab architecture, in
 
 ![Lab Architecture](screenshots/lab-architecture.png)
 
----
 
 # Current Technologies
 
@@ -55,7 +49,6 @@ The following diagram provides a high level overview of the lab architecture, in
 - SSH
 - UFW Firewall
 
----
 
 # Security Concepts Practiced
 
@@ -71,7 +64,6 @@ The following diagram provides a high level overview of the lab architecture, in
 - Service validation and recovery
 - Administrative access control
 
----
 
 # Screenshots
 
@@ -81,7 +73,6 @@ Demonstrates centralized authentication integration using Authentik OAuth/OIDC.
 
 ![Portainer OAuth Login](screenshots/portainer-oauth-login.png)
 
----
 
 ## Authentik MFA Prompt
 
@@ -89,7 +80,6 @@ Demonstrates MFA enforcement during the authentication workflow.
 
 ![Authentik MFA Prompt](screenshots/authentik-mfa-prompt.png)
 
----
 
 ## Portainer Dashboard
 
