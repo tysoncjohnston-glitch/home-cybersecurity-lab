@@ -6,7 +6,6 @@ This home cybersecurity lab was built to develop hands-on experience with Linux 
 
 The environment is hosted on Ubuntu Server and uses Docker to deploy and manage services.
 
----
 
 # Core Infrastructure
 
@@ -17,7 +16,6 @@ The environment is hosted on Ubuntu Server and uses Docker to deploy and manage 
 - UFW firewall enabled
 - Docker installed for containerized application management
 
----
 
 # Containerized Services
 
@@ -33,7 +31,6 @@ Security Features:
 - MFA protected through Authentik
 - Local admin retained as break-glass access
 
----
 
 ## Uptime Kuma
 
@@ -47,7 +44,6 @@ Monitoring Examples:
 - Internal services
 - Reverse proxy availability
 
----
 
 ## Authentik
 
@@ -61,7 +57,6 @@ Implemented Features:
 - OAuth integration with Portainer
 - User and group management
 
----
 
 ## Nginx Proxy Manager
 
@@ -74,7 +69,6 @@ Example Usage:
 - Reverse proxying Uptime Kuma
 - Supporting centralized authentication architecture
 
----
 
 # Security Concepts Practiced
 
@@ -89,7 +83,6 @@ Example Usage:
 - Operational troubleshooting
 - Break-glass administrative access
 
----
 
 # Operational Goals
 
