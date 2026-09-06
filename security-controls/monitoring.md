@@ -6,7 +6,6 @@ Monitoring was implemented to improve operational visibility, validate service a
 
 The goal of monitoring is to identify outages, configuration problems, and service interruptions quickly.
 
----
 
 # Implemented Monitoring
 
@@ -19,7 +18,6 @@ Monitoring currently includes:
 
 Uptime Kuma was configured to perform recurring health checks and validate service responsiveness.
 
----
 
 # Security and Operational Concepts
 
@@ -32,7 +30,6 @@ The monitoring implementation provided hands-on experience with:
 - Alerting concepts
 - Service validation after updates and reboots
 
----
 
 # Key Lessons Learned
 
