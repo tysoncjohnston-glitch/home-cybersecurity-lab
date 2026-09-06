@@ -6,7 +6,6 @@ Remote administration capabilities were implemented to securely manage the lab e
 
 SSH was configured to support remote Linux administration and operational management.
 
----
 
 # Implemented Controls
 
@@ -20,7 +19,6 @@ Current remote administration functionality includes:
 
 The environment was tested to confirm SSH accessibility after system reboot and service persistence validation.
 
----
 
 # Security Concepts Practiced
 
@@ -32,7 +30,6 @@ The environment was tested to confirm SSH accessibility after system reboot and 
 - Remote infrastructure management
 - Administrative access control
 
----
 
 # Key Lessons Learned
 
