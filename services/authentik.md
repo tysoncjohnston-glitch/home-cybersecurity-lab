@@ -10,7 +10,6 @@ It provides:
 - OAuth/OIDC identity provider functionality
 - Centralized access control
 
----
 
 # Implemented Features
 
@@ -23,7 +22,6 @@ Implemented functionality includes:
 
 Authentik was integrated with Portainer to centralize authentication and enforce MFA protected administrative access.
 
----
 
 # Security Concepts Practiced
 
@@ -36,7 +34,6 @@ Authentik was integrated with Portainer to centralize authentication and enforce
 - Centralized identity management
 - Administrative security controls
 
----
 
 # Key Lessons Learned
 
