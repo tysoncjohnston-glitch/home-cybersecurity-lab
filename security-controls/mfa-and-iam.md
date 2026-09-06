@@ -6,7 +6,6 @@ This security control focuses on centralized identity and access management usin
 
 The implementation emphasizes reducing reliance on standalone credentials while improving authentication security through MFA.
 
----
 
 # Implemented Controls
 
@@ -19,7 +18,6 @@ Current implementations include:
 - Administrative access management
 - Break-glass local administrative access retention
 
----
 
 # Security Concepts Practiced
 
@@ -32,7 +30,6 @@ Current implementations include:
 - Federated authentication
 - User provisioning
 
----
 
 # Key Lessons Learned
 
