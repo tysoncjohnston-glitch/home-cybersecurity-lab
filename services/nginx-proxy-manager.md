@@ -6,7 +6,6 @@ Nginx Proxy Manager is used to provide reverse proxy functionality and simplifie
 
 It enables centralized routing of requests to internal applications while supporting future authentication and security integrations.
 
----
 
 # Current Usage
 
@@ -18,7 +17,6 @@ Current implementations include:
 
 The platform was used during attempts to integrate centralized authentication workflows between Authentik and internal services.
 
----
 
 # Security and Infrastructure Concepts
 
@@ -30,7 +28,6 @@ The deployment provided hands-on experience with:
 - Proxy trust relationships
 - Infrastructure segmentation concepts
 
----
 
 # Key Lessons Learned
 
