@@ -6,7 +6,6 @@ Patch management practices were implemented to improve system security, maintain
 
 The lab environment uses a combination of automatic operating system updates and manual container update validation.
 
----
 
 # Implemented Update Strategy
 
@@ -19,7 +18,6 @@ Current update practices include:
 
 Containerized services are intentionally updated manually to support operational understanding and reduce the risk of unintended breaking changes.
 
----
 
 # Security Concepts Practiced
 
@@ -31,7 +29,6 @@ Containerized services are intentionally updated manually to support operational
 - Operational change management
 - Risk reduction through maintenance
 
----
 
 # Key Lessons Learned
 
