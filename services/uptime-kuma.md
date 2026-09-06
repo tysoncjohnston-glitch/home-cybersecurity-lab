@@ -6,7 +6,6 @@ Uptime Kuma is used for monitoring infrastructure availability, service uptime, 
 
 The platform performs automated health checks against internal services and network resources.
 
----
 
 # Monitoring Functions
 
@@ -19,7 +18,6 @@ Current monitoring includes:
 
 Monitoring intervals and retry behavior were configured to provide visibility into outages and service interruptions.
 
----
 
 # Security and Infrastructure Concepts
 
@@ -32,7 +30,6 @@ The deployment provided hands-on experience with:
 - Operational visibility
 - Alerting concepts
 
----
 
 # Key Lessons Learned
 
