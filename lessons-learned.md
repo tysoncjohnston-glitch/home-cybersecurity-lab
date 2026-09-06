@@ -6,7 +6,6 @@ Building this home cybersecurity lab provided hands-on experience with operation
 
 The project emphasized learning through implementation, testing, validation, and problem solving rather than only theoretical study.
 
----
 
 # Technical Lessons Learned
 
@@ -19,7 +18,6 @@ Working with Ubuntu Server improved understanding of:
 - Service management
 - System updates and maintenance
 
----
 
 ## Docker and Containerization
 
@@ -31,7 +29,6 @@ Deploying services through Docker provided experience with:
 - Operational troubleshooting
 - Resource monitoring
 
----
 
 ## IAM and MFA
 
@@ -43,7 +40,6 @@ Implementing Authentik improved understanding of:
 - User provisioning
 - Administrative access control
 
----
 
 ## Monitoring and Visibility
 
@@ -55,7 +51,6 @@ Deploying Uptime Kuma reinforced the operational importance of:
 - Operational awareness
 - Troubleshooting workflows
 
----
 
 ## Reverse Proxy Architecture
 
@@ -66,7 +61,6 @@ Working with Nginx Proxy Manager improved understanding of:
 - Centralized authentication architecture
 - Service exposure management
 
----
 
 # Operational Lessons Learned
 
@@ -79,7 +73,6 @@ The lab environment reinforced the importance of:
 - Reviewing logs and service status
 - Confirming successful remediation after changes
 
----
 
 ## Change Management
 
@@ -90,7 +83,6 @@ Implementing updates and integrations demonstrated:
 - Need for rollback awareness
 - Service verification after changes
 
----
 
 ## Network Migration and Recovery
 
@@ -114,7 +106,6 @@ Rather than assuming a single root cause, troubleshooting was performed in layer
 - Client-side name resolution can cause failures even when backend services are healthy.
 - Maintaining alternate access methods can significantly reduce recovery time during troubleshooting.
 
----
 
 ## Security Mindset Development
 
@@ -125,7 +116,6 @@ The project reinforced several operational security principles:
 - Access control requires ongoing management
 - Security implementations must balance functionality and operational stability
 
----
 
 # Professional Growth
 
@@ -139,7 +129,6 @@ The project strengthened understanding of:
 - Security focused decision making
 - Documentation and technical communication
 
----
 
 # Future Goals
 
