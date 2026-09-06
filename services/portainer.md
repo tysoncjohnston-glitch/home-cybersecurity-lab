@@ -13,7 +13,6 @@ It provides visibility into:
 - Container logs
 - Stack deployments
 
----
 
 # Security Integration
 
@@ -26,7 +25,6 @@ Implemented security features include:
 - Strict redirect URI configuration
 - Retention of local admin credentials as break-glass access
 
----
 
 # Operational Concepts Practiced
 
@@ -39,7 +37,6 @@ Implemented security features include:
 - Operational troubleshooting
 - Administrative access control
 
----
 
 # Key Lessons Learned
 
